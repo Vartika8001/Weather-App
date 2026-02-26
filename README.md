@@ -27,9 +27,7 @@ A responsive weather web application that provides real-time weather updates for
 
 ## 📸 Project Preview
 
-![Weather App Screenshot](screenshot.png)
-
-> Replace `screenshot.png` with your actual image file name.
+![Weather App Screenshot](weatherapp.png)
 
 ---
 
