@@ -34,8 +34,7 @@ A responsive weather web application that provides real-time weather updates for
 ## ⚡ How to Run Locally
 
 1. Clone the repository  
-   ```bash
-   git clone https://github.com/Vartika8001/Weather-App.git
+   
 2. Open index.html in your browser
 
 3. Enter a city name and view live weather data
